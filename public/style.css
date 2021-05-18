@@ -1,0 +1,32 @@
+html {
+    margin: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.app {
+    max-width: 500px;
+}
+
+.header, .logo {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.header {
+    width: 96px;
+    height: 96px;
+}
+.logo {
+    width: 200px;
+    height: 100px;
+}
+
+.clock, .lot {
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
